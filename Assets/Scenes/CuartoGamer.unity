@@ -365,6 +365,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 26578590336760442, guid: b8f16065c51af344c89d7731830c3b0e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 26578590336760442, guid: b8f16065c51af344c89d7731830c3b0e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.356
+      objectReference: {fileID: 0}
+    - target: {fileID: 26578590336760442, guid: b8f16065c51af344c89d7731830c3b0e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.727
+      objectReference: {fileID: 0}
+    - target: {fileID: 4232419322247761745, guid: b8f16065c51af344c89d7731830c3b0e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4232419322247761745, guid: b8f16065c51af344c89d7731830c3b0e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4232419322247761745, guid: b8f16065c51af344c89d7731830c3b0e, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4232419322247761745, guid: b8f16065c51af344c89d7731830c3b0e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.539
+      objectReference: {fileID: 0}
     - target: {fileID: 4410760775904411694, guid: b8f16065c51af344c89d7731830c3b0e, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -413,6 +441,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Scene
       objectReference: {fileID: 0}
+    - target: {fileID: 8234499547693753120, guid: b8f16065c51af344c89d7731830c3b0e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1f3ebe73fc37f5344af63d00d16ead7e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b8f16065c51af344c89d7731830c3b0e, type: 3}
 --- !u!1001 &1548329738
