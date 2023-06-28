@@ -80,6 +80,10 @@ public class DoorAnimator : MonoBehaviour
 
     private void Update()
     {
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            isAnimating = false;
+        }
         if (!isAnimating)
         {
             // Call the coroutine again when the animation is not in progress
